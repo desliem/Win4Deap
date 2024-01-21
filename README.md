@@ -1,7 +1,5 @@
 # Win4Deap 2
 
-**Win4Deap 2 (version 2.1.0.1)**
-
 ## Qu'est-ce ?
 
 **Win4Deap** est une application qui fournit une interface plus conviviale de type graphique pour utiliser l'application console **DEAP** de Tim Coelli. Cette version (2.1.0.1) se veut une amélioration par rapport à **Win4DEAP** qui demeure disponible. Testé sous Windows 7 et 8, ce logiciel devrait fonctionner sur toutes les versions 32 et 64 bits depuis Windows XP. 
