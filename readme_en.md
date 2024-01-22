@@ -22,7 +22,7 @@ The application provides a grid not unlike a spreadsheet to enter data and write
 
 ## 2. Installation
 
-The installation program for the latest version of ***Win4Deap 2*** is available here: Win4Deap2Install-2-1-0-1.exe ??????????. Click on the link to start downloading the setup file. 
+The installation program for the latest version of ***Win4Deap 2*** is available here: [Win4Deap2Install-2-1-0-1.exe](win4deap2/Win4Deap2Install-2-1-0-1.exe). Click on the link to start downloading the setup file. 
 
 | Hash   |  Win4Deap2Install-2-1-0-1.exe checksum  |
 |--- |--- |
@@ -62,7 +62,7 @@ The type of installation is specified at the very end of the installation proces
 
   1. Finally, click on the Install button and, once the installation is completed `Click` on the `Finish` button.
 
-If a standard installation was chosen, the extension `.wdjson` will be associated with **Win4Deap 2** which will cause `Win4Dep2.exe` to be launched whenever a file with that extension is double clicked. Also an uninstall program will be installed. Finally, a menu item will be added to the Start menu. If a portable installation was selected, the file association will not be performed and the uninstall program will not be created. ????????? what about the menu item???
+If a standard installation was chosen, the extension `.wdjson` will be associated with **Win4Deap 2** which will cause `Win4Dep2.exe` to be launched whenever a file with that extension is double clicked. Also an uninstall program will be installed. Finally, a menu item will be added to the Start menu. If a portable installation was selected, the file association will not be performed and the uninstall program will not be created. <!-- ????????? what about the menu item??? -->
 
 It is possible to choose **DEAP**'s folder as the destination folder into which **Wind4Deap** is installed. In that case **Win4Deap 2** will find `DEAP.EXE`. Otherwise, it is necessary to specify the location of `DEAP.EXE` in the **Win4Deap 2**'s `Preferences` dialogue.
 
