@@ -18,7 +18,7 @@
 
 ## 1. Introduction
 
-The application provides a grid not unlike a spreadsheet to enter data and writes the necessary instruction and data files for **DEAP**. This means that it is possible to have data files in a folder other than **DEAP**'s. **Win4Deap 2** is a 32-bit Windows application. It has been tested on Windows 7 and 8.1 (64 bit)  but it probably runs on all versions of Windows starting with Windows XP.
+The application provides a grid not unlike a spreadsheet to enter data and writes the necessary instruction and data files for **DEAP**. This means that it is possible to have data files in a folder other than **DEAP**'s. **Win4Deap 2** is a 32-bit Windows application. It has been tested on Windows 7, 8.1 and 10 (64 bit)  but it probably runs on all versions of Windows starting with Windows XP.
 
 ## 2. Installation
 
