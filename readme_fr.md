@@ -17,7 +17,7 @@
 <!-- /TOC -->
 
 ## 1. Introduction
-L'application fournit une grille semblable à une feuille de calcul pour saisir les données et écrit les instructions et les fichiers de données nécessaires pour **DEAP**. Cela signifie qu'il est possible d'avoir des fichiers de données dans un dossier autre que celui de **DEAP**. **Win4Deap 2** est une application Windows 32 bits. Testé sur Windows 7 et 8.1 (64 bits), ce logiciel fonctionne probablement sur toutes les versions de Windows à partir de Windows XP.
+L'application fournit une grille semblable à une feuille de calcul pour saisir les données et écrit les instructions et les fichiers de données nécessaires pour **DEAP**. Cela signifie qu'il est possible d'avoir des fichiers de données dans un dossier autre que celui de **DEAP**. **Win4Deap 2** est une application Windows 32 bits. Testé sur Windows 7, 8.1 et 10 (64 bits), ce logiciel fonctionne probablement sur toutes les versions de Windows à partir de Windows XP.
 
 ## 2. Installation
 Le programme d'installation de la dernière version de **Win4Deap 2** est disponible ici : [Win4Deap2Install-2-1-0-1.exe](win4deap2/Win4Deap2Install-2-1-0-1.exe). Cliquez sur le lien pour commencer à télécharger le fichier d'installation.
