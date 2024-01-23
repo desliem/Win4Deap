@@ -9,7 +9,7 @@
   - [2.1. Types d'installation](#21-types-dinstallation)
   - [2.2. Instructions](#22-instructions)
 - [3. Exemples de fichiers](#3-exemples-de-fichiers)
-- [4. Suppression de **Win4Deap 2**](#4-suppression-de-win4deap 2)
+- [4. Suppression de Win4Deap 2](#4-suppression-de-win4deap-2)
 - [5. AVIS DE NON-RESPONSABILITÉ et AVERTISSEMENT](#5-avis-de-non-responsabilité-et-avertissement)
 - [6. Remerciement](#6-remerciement)
 - [7. Dernières modifications](#7-dernières-modifications)
@@ -50,19 +50,25 @@ Le type d'installation est précisé à la toute fin du processus d'installation
 
 1. Lisez l'écran de bienvenue et cliquez sur `Suivant >`.
 
-1. Lisez le contrat de licence, sélectionnez I accept the agreementsi vous le faites, puis cliquez sur `Suivant >`.
+1. Lisez le contrat de licence, sélectionnez `Je comprends et j'accepte les termes du contrat de licence` si c'est acceptable, puis cliquez sur `Suivant >`.
 
 1. Sélectionnez le dossier de destination.
    - Pour une installation standard, vous pouvez probablement accepter l'emplacement par défaut.
    - Pour une installation portable, accédez à un dossier dans lequel vous disposez des autorisations complètes de lecture et d’écriture. Cela exclut les dossiers `Windows`, `Program Files` et, sur les systèmes 64 bits, `Program files (x86)`.
+   
+   Cliquez sur  `Suivant >`.
 
 1. Sélectionnez le dossier du menu Démarrer.
    - Pour une installation standard, vous pouvez probablement accepter l'emplacement par défaut.
    - Pour une installation portable, acceptez la valeur par défaut, elle sera ignorée dans tous les cas, car rien ne sera ajouté au menu Démarrer.
+   
+   Cliquez sur  `Suivant >`.
+   
+1. Sélectionnez le type d'installation (standard ou portable). Il est également possible d'inclure ou non le support des langues nationales. Actuellement **Win4Deap 2** est disponible en deux langues : anglais et français. Il sera possible de traduire dans d'autres langues si la prise en charge des langues nationales est incluse.  
 
-1. Sélectionnez le type d'installation (standard ou portable). Il est également possible d'inclure ou non le support des langues nationales. Actuellement **Win4Deap 2** est disponible en deux langues : anglais et français. Il sera possible de traduire dans d'autres langues si la prise en charge des langues nationales est incluse.
+   Cliquez sur  `Suivant >`.
 
-1. Enfin, cliquez sur le bouton `Installer` et, une fois l'installation terminée cliquez sur le bouton `Terminer`.
+1. Enfin, cliquez sur le bouton `Installer` et, une fois l'installation terminée, cliquez sur le bouton `Terminer`.
 
 Si une installation standard a été choisie, l'extension `.wdjson` sera associée à **Win4Deap 2** , ce qui provoquera le lancement de `Win4Deap2.exe` chaque fois qu'un fichier avec cette extension sera double-cliqué. Un programme de désinstallation sera également installé. Enfin, un élément de menu sera ajouté au menu Démarrer. Si une installation portable a été sélectionnée, l'association de fichiers ne sera pas effectuée, un élément de menu démarrer et le programme de désinstallation ne seront pas créés.
 
@@ -72,7 +78,7 @@ Il est possible de choisir le dossier **DEAP** comme dossier de destination dans
 
 Les quatre exemples de Tim Coelli sont fournis au format **Win4Deap 2** (extension `.wdjson`). Ils se trouvent dans un dossier appelé, à juste titre `examples`. Dans une installation standard, ce dossier se trouvera dans un dossier appelé `Win4Deap2` dans le dossier `Documents` de l'utilisateur. Dans une installation portable, `examples` sera dans le dossier contenant `Win4Deap2.exe`.
 
-## 4. Suppression de **Win4Deap 2**
+## 4. Suppression de Win4Deap 2
 
 Un programme de désinstallation est installé avec `Win4Deap2.exe` si une installation standard a été effectuée. Si une installation portable a été choisie, il suffit de supprimer manuellement les fichiers installés puisqu'aucune modification n’avait été apportée au système.
 

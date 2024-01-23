@@ -1,6 +1,9 @@
-# **Win4Deap 2**.1.0.1
+# Win4Deap 2
+Version 2.1.0.1
 
 **Win4Deap 2** provides a convivial Windows front end for **DEAP** written by Tim Coelli. As the name implies, **Win4Deap 2** and its predecessor, **Win4DEAP**, are ***not*** replacements of **DEAP**. It is the latter which performs the numerical calculations required in data envelopment analysis. **Win4Deap 2** cannot make DEA calculations without an installed copy of `DEAP.EXE`. On the other hand`DEAP.EXE`, a DOS console program, will work perfectly well without **Win4Deap 2**.
+
+**Content**
 
 <!-- TOC -->
 
@@ -9,7 +12,7 @@
   - [2.1. Types of installation](#21-types-of-installation)
   - [2.2. Instructions](#22-instructions)
 - [3. Example files](#3-example-files)
-- [4. Removing **Win4Deap 2**](#4-removing-win4deap-2)
+- [4. Removing Win4Deap 2](#4-removing-win4deap-2)
 - [5. DISCLAIMER and WARNING](#5-disclaimer-and-warning)
 - [6. Acknowledgement](#6-acknowledgement)
 - [7. Latest changes](#7-latest-changes)
@@ -22,7 +25,7 @@ The application provides a grid not unlike a spreadsheet to enter data and write
 
 ## 2. Installation
 
-The installation program for the latest version of ***Win4Deap 2*** is available here: [Win4Deap2Install-2-1-0-1.exe](Win4Deap2Install-2-1-0-1.exe). Click on the link.
+The installation program for the latest version of **Win4Deap 2** is available here: [Win4Deap2Install-2-1-0-1.exe](Win4Deap2Install-2-1-0-1.exe). Click on the link.
 
 ![](../img/download_installer.png)
 
@@ -58,15 +61,15 @@ The type of installation is specified at the very end of the installation proces
 
   1.  Select the destination folder.
        -  For a standard installation, you can probably accept the default location.
-       -  For a portable installation, browse to a folder where you have full read and write permission. That excludes folders Windows, Program Files and, on 64 bit systems, Program files (x86). 
+       -  For a portable installation, browse to a folder where you have full read and write permission. That excludes folders `Windows`, `Program Files` and, on 64 bit systems, `Program files (x86)`. 
 
   1. Select the start menu folder.
        -  For a standard installation, you can probably accept the default location.
-       -  For a portable installation, accept the default, it will be ignored in any case as nothing will be added to the Start menu.
+       -  For a portable installation, accept the default, it will be ignored in any case as nothing will be added to the start menu.
 
   1. Select the type of installation (standard or portable). It is also possible to include national language support or not. Currently **Win4Deap 2** is available in two languages: English and French. It will be possible to translate to other languages if national language support is included.
 
-  1. Finally, click on the Install button and, once the installation is completed `Click` on the `Finish` button.
+  1. Finally, click on the `Install` button and, once the installation is completed, click on the `Finish` button.
 
 If a standard installation was chosen, the extension `.wdjson` will be associated with **Win4Deap 2** which will cause `Win4Dep2.exe` to be launched whenever a file with that extension is double clicked. Also an uninstall program will be installed. Finally, a menu item will be added to the Start menu. If a portable installation was selected, the file association will not be performed, a menu item and the uninstall program will not be created.
 
@@ -76,7 +79,7 @@ It is possible to choose **DEAP**'s folder as the destination folder into which 
 
 Tim Coelli's four examples are provided in **Win4Deap 2** format (extension .`wdjson`). They are in a folder called, appropriately `Examples`. In a standard installation, that folder will be in a folder called `Win4Deap2` in the user's `Document` folder. In a portable installation, `Examples` will be in the folder containing `Win4Deap2.exe`.
 
-## 4. Removing **Win4Deap 2**
+## 4. Removing Win4Deap 2
 
 An uninstall program is installed along with Win4Deap2.exe if a standard installation was performed. If a portable installation was chosen, manually delete the installed files. No changes were made to the system in that case.
 

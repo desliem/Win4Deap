@@ -1,6 +1,6 @@
 
 
-# **Win4DEAP**
+# Win4DEAP
 
 **Version 1.1.4**  
 **© copyright 2002-2014 Michel Deslierres**
