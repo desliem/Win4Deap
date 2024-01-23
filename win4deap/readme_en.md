@@ -24,10 +24,9 @@ There is a successor to <span style="color: black">Win4DEAP</span> called <span 
 - [5. Instructions for use of **Win4DEAP**](#5-instructions-for-use-of-win4deap)
 - [6. Removing **Win4DEAP**](#6-removing-win4deap)
 - [7. DISCLAIMER and WARNING](#7-disclaimer-and-warning)
-- [8. PUP](#8-pup)
-- [9. WinDEAP.sas](#9-windeapsas)
-- [10. Acknowledgement](#10-acknowledgement)
-- [11. Latest changes](#11-latest-changes)
+- [8. WinDEAP.sas](#8-windeapsas)
+- [9. Acknowledgement](#9-acknowledgement)
+- [10. Latest changes](#10-latest-changes)
 
 <!-- /TOC -->
 
@@ -63,8 +62,11 @@ All the files to do your own installation.
 | md5  | 937bdefe9ab995b9f148279ce99b0323 |
 | sha1 | 7ff12d31c38684c38f6fd5b5834fa8a79ed97ac3 |
 
-Click on the above links to start downloading the files. Please verify the checksums to make sure the download occurred without error. It is very important to run these checks, particularly if you downloaded the files from some other site. See PUP below.
+Click on one of the above links to obtain the desired file.
 
+![](../img/download_installer.png)
+
+Then click on the `Dowload raw file` icon to download the file. Please verify the checksums to make sure the download occurred without error. It is very important to run these checks, particularly if you downloaded the files from some other site. Also see the [warning](#7-disclaimer-and-warning) about bundled potentially unwanted programs (pups) below.
 
 ## 3. Installing
 
@@ -108,27 +110,24 @@ An uninstall program is installed along with `Win4DEAP.EXE`. See the help file f
 
 **Win4DEAP** should be considered beta software. Backup data often and in both the native DED format and standard CSV or TXT formats.
 
-
-## 8. PUP
-
 I recommend strongly that you download this application from here or from a trusted source (such as a professor making it available on a campus intranet). Some dubious sites are advertising it in a way that masks its source, perhaps even bundling PUPs (Potentially Unwanted Programs) along with **Win4DEAP**.
 
-There was a site with the title *How To Fix Michel Deslierres Win4DEAP*, which was a bit scary. What needed fixing, me or my application? It suggested that you download a utility to repair everything. By the way, the site claimed that the repair tool would work on Android even though my application cannot not run on Android. Even funnier are the 5 star rating it gives itself, claiming 361,927 downloads (<sup>1</sup>) in November 2015 only. Not bad, given that **Win4DEAP** might have been downloaded 100 times in a year tops!
-
-Of course, I am beyond fixing, and no third party can fix anything (<sup>2</sup>) to do with **Win4DEAP**, I have never released the code, nor will I ever. It's just too ugly.
-
-If you have an application or document that you think would be useful to users of **Win4DEAP**, put up separate links to both WinDeap114.exe and your additional material.
-
+> There was a site with the title *How To Fix Michel Deslierres Win4DEAP*, which was a bit scary. What needed fixing, me or my application? It suggested that you download a utility to repair everything. By the way, the site claimed that the repair tool would work on Android even though my application cannot not run on Android. Even funnier are the 5 star rating it gives itself, claiming 361,927 downloads (<sup>1</sup>) in November 2015 only. Not bad, given that **Win4DEAP** might have been downloaded 100 times in a year tops!
+>
+>Of course, I am beyond fixing, and no third party can fix anything (<sup>2</sup>) to do with **Win4DEAP**, I have never released the code, nor will I ever. It's just too ugly.
+>
+>If you have an application or document that you think would be useful to users of **Win4DEAP**, put up separate links to both WinDeap114.exe and your additional material.
+>
 > (1) The figure is from a check on the 6th of December 2015 of that, let's say "amusing", site.
-
+>
 > (2) With the exception of removing the application and its entries in the registry.
 
-## 9. WinDEAP.sas
+## 8. WinDEAP.sas
 
 The **WinDEAP.sas** file ([download link](WinDEAP.sas)) is a macro that generates a **WinDEAP** file with `.ded extension` from a SAS data set. Further explanations are contained in the comment at the top of the file. This file was created by Julien Ciccone.
 
 
-## 10. Acknowledgement
+## 9. Acknowledgement
 
 Thanks to Tim Coelli for **DEAP** without which **Win4DEAP** is of no use.
 
@@ -142,7 +141,7 @@ Thanks to Alessio Ishizaka, CORL, University of Portsmouth for pointing out that
 
 Thanks to Julien Ciccone for providing the **WinDEAP.sas** macro.
 
-## 11. Latest changes
+## 10. Latest changes
 
 Version 1.1.4 (Octobre 10th, 2014)
 - The lost Import menu was restored.
