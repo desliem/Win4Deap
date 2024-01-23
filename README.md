@@ -2,7 +2,7 @@
 
 ## Qu'est-ce ?
 
-**Win4Deap 2** (version 2.1.0.1) est une application qui fournit une interface plus conviviale de type graphique pour **DEAP** qui est une application console de Tim Coelli qui réalise des analyses d'enveloppment de données. Testé sous Windows 7, 8, et 10, ce logiciel devrait fonctionner sur toutes les versions 32 et 64 bits depuis Windows XP. [Suite...](win4deap2/readme_fr.md)
+**Win4Deap 2** (version 2.1.0.1) est une interface graphique conviviale our **DEAP**. Ce dernier logiciel est une application console de Tim Coelli qui réalise des analyses d'enveloppment de données. Testé sous Windows 7, 8, et 10, ce logiciel devrait fonctionner sur toutes les versions 32 et 64 bits depuis Windows XP. [Suite...](win4deap2/readme_fr.md)
 
 ## What Is This?
 
@@ -20,4 +20,3 @@
 ## What Is This?
 
 **Win4DEAP** (version 1.1.4) was an older version that ran on Windows 98. Use **Win4Deap 2** instead. [More...](win4deap/readme_en.md)
-
