@@ -22,9 +22,9 @@ The application provides a grid not unlike a spreadsheet to enter data and write
 
 ## 2. Installation
 
-The installation program for the latest version of ***Win4Deap 2*** is available here: [Win4Deap2Install-2-1-0-1.exe](win4deap2/Win4Deap2Install-2-1-0-1.exe). Click on the link.
+The installation program for the latest version of ***Win4Deap 2*** is available here: [Win4Deap2Install-2-1-0-1.exe](Win4Deap2Install-2-1-0-1.exe). Click on the link.
 
-![](img/download_installer.png)
+![](../img/download_installer.png)
 
 Then click on the `Download raw file` icon as shown above. Once the executable is downloaded, verify its checksum. 
 
@@ -38,9 +38,9 @@ Then click on the `Download raw file` icon as shown above. Once the executable i
 
 **Win4Deap 2** can be run as a "standard" Windows' application or as a "portable" application. 
 
-  - A standard applocation of **Win4Deap 2** will associate `.wdjson` files to itself which requires modifying Windows' configuration information (the registry). Furthermore, the standard folders will be used to store the application's configuration file and the application's data files.
+  - A standard application of **Win4Deap 2** will associate `.wdjson` files to itself which requires modifying Windows' registry. Furthermore, the standard folders will be used to store the application's configuration file and the application's data files.
 
-  - A portable application of **Win4Deap 2** will make no changes to Windows' configuration. By default, the application's configuration file and data files will be stored in the folder containing the application.  
+  - A portable application of **Win4Deap 2** will make no changes to Windows' registry. By default, the application's configuration file and data files will be stored in the folder containing the application.  
 
     Most often, a portable program is installed on removable media such as thumb drives. But it is entirely possible to choose to perform a portable installation in a hard drive's folder. Just make sure that you have full read and write rights on that folder. In that case, it will be possible to install **DEAP** in the same folder. Conversely, if **DEAP** is already installed, it should be possible to install **Win4Deap 2** in the same folder.
 

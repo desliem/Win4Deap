@@ -20,9 +20,9 @@
 L'application fournit une grille semblable à une feuille de calcul pour saisir les données et écrit les instructions et les fichiers de données nécessaires pour **DEAP**. Cela signifie qu'il est possible d'avoir des fichiers de données dans un dossier autre que celui de **DEAP**. **Win4Deap 2** est une application Windows 32 bits. Testé sur Windows 7, 8.1 et 10 (64 bits), ce logiciel fonctionne probablement sur toutes les versions de Windows à partir de Windows XP.
 
 ## 2. Installation
-Le programme d'installation de la dernière version de **Win4Deap 2** est disponible ici : [Win4Deap2Install-2-1-0-1.exe](win4deap2/Win4Deap2Install-2-1-0-1.exe). Pour l'obtenir, cliquez sur le lien.
+Le programme d'installation de la dernière version de **Win4Deap 2** est disponible ici : [Win4Deap2Install-2-1-0-1.exe](Win4Deap2Install-2-1-0-1.exe). Pour l'obtenir, cliquez sur le lien.
 
-![](img/download_installer.png)
+![](../img/download_installer.png)
 
 Puis cliquez sur l'icône `Download raw file` pour lanceer le téléchargement. Après le téléchargement du fichier vérifiez sa somme de contrôle.. 
 
@@ -91,7 +91,7 @@ Merci à Jordan Russell pour le compilateur Inno Setup qui a été utilisé pour
 
 Cette application a été écrite en Object Pascal avec le compilateur open source Free Pascal et l'IDE RAD gratuit Lazarus : http://www.freepascal.org/ et http://www.lazarus-ide.org/. Merci à l'équipe de bénévoles dévoués pour ces excellents projets open source.
 
-La plupart des icônes proviennent du jeu d'icônes Silk de Mark James publié sous la licence Creative Commons Attribution 2.5 : ~http://www.famfamfam.com/lab/icons/silk/~ n'est plus en ligne, mais voir https://github.com/legacy-icons/famfamfam-silk.
+La plupart des icônes proviennent du jeu d'icônes Silk de Mark James publié sous la licence Creative Commons Attribution 2.5 : ~~http://www.famfamfam.com/lab/icons/silk/~~ n'est plus en ligne, mais voir https://github.com/legacy-icons/famfamfam-silk.
 
 L'icône de l'application a été créée avec l'application open source Greenfish Icon Editor Pro (également écrite avec FreePascal/Lazarus) : http://greenfishsoftware.org/.
 
