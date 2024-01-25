@@ -4,9 +4,9 @@ version 2.1.0.1
 
 ## Qu'est-ce ?
 
-**Win4Deap 2** est une interface graphique conviviale pour **DEAP**. Ce dernier logiciel est une application console de Tim Coelli qui réalise des analyses d'enveloppment de données (AED). Testé sous Windows 7, 8, et 10, ce logiciel devrait fonctionner sur toutes les versions 32 et 64 bits depuis Windows XP. [Suite...](win4deap2/readme_fr.md)
+**Win4Deap 2** est une interface graphique conviviale pour **DEAP**. Ce dernier logiciel est une application console de Tim Coelli qui réalise des analyses d'enveloppement de données (AED). Testé sous Windows 7, 8, et 10, ce logiciel devrait fonctionner sur toutes les versions 32 et 64 bits depuis Windows XP. [Suite...](win4deap2/readme_fr.md)
 
-Pour les modèles AED de base, essayez [MDeap](https://github.com/desliem/mdeap). Ce logiciel Windows utilise les mêmes fichiers sources que **Win4Deap 2** sans, toutefois nécessité l'installation préalable de **DEAP**. De plus, les résultats des calculs AED sont présentés dans des tableaux facilement exportables.
+Pour les modèles AED de base, essayez [MDeap](https://github.com/desliem/mdeap). Ce logiciel Windows utilise les mêmes fichiers sources que **Win4Deap 2** sans, toutefois nécessité l'installation préalable de **DEAP**. De plus, les résultats des calculs AED sont présentés dans des tableaux facilement exportés.
 
 ## What Is This?
 
